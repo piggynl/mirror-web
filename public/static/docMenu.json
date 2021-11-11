@@ -1,0 +1,39 @@
+[
+  {
+    "key": 0,
+    "title": "欢迎来到帮助文档",
+    "name": "docHome"
+  },
+  {
+    "title": "CTAN",
+    "name": "CTAN"
+  },
+  {
+    "title": "Debian",
+    "name": "debian"
+  },
+  {
+    "title": "PyPI",
+    "name": "pypi"
+  },
+  {
+    "title": "Ubuntu",
+    "name": "ubuntu"
+  },
+  {
+    "title": "ArchLinux",
+    "name": "archlinux"
+  },
+  {
+    "title": "ArchLinuxCN",
+    "name": "archlinuxcn"
+  },
+  {
+    "title": "Termux",
+    "name": "termux"
+  },
+  {
+    "title": "crates.io-index.git",
+    "name": "crates.io-index.git"
+  }
+]
